@@ -1,0 +1,7 @@
+{
+  "name": "Podpowiedzi emotek Klubu Pijakow",
+  "version": "1.0.0",
+  "author": "Dargoth",
+  "description": "Podpowiedzi (Tab) dla emotek Klubu Pijakow.",
+  "entryPoint": "plugin.ts"
+}
